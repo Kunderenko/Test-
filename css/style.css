@@ -140,9 +140,7 @@ width: 100%;
     margin: 0 10px;
     border-bottom: 1px solid transparent;
     transition: 0.2s ease-in-out;
-    position: relative;
-
-    
+    position: relative;  
 }
 
 .nav-bar > .menu::before {
@@ -254,35 +252,13 @@ width: 100%;
 
 
 .first-scrn {
-    background-image: url("../images/top-back.png");
+    background-image: url("images/top-back.png");
     background-image: no-repeat;
     background-image: 100%;
     background-size: cover;
     background-color: #000;
     height: 100vh;
 }
-
-/* .menu_{
-   
-} */
-
-
-
-
-/* .menu-btm-click_content_calc 
-.menu-btm-click_content_butt 
-.menu-btm-click_content_sequence 
-.menu-btm-click_content_servises 
-.menu-btm-click_content_cars
-.menu-btm-click_content_reviews
-.menu-btm-click_content_contact {
-    margen
-} */
-
-
-
-
-
 
 .menu_ {
     /* display: none; */
@@ -336,12 +312,6 @@ ul {
     margin-top: 0;
     margin-bottom: 1rem;
 }
-
-
-
-
-
-
 /* .top-menu_content */
 
 .top-menu_content{
@@ -351,7 +321,6 @@ ul {
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-
 }
 h1 {
 
@@ -409,13 +378,6 @@ p {
     width: 70%;
 }
 
-/* font-family: "Open Sans",sans-serif;
-    font-size: 1.25rem;
-    font-weight: 300;
-    line-height: 2.25rem;
-    max-width: 33.75rem;
-    width: 100%;
-} */
 
 .order {
     padding: 4.875rem 5.9375rem 4.875rem;
