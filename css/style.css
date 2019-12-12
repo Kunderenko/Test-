@@ -252,7 +252,7 @@ width: 100%;
 
 
 .first-scrn {
-    background-image: url("../images/top-back.png");
+    background:url("../images/top-back.png");
     background-image: no-repeat;
     background-image: 100%;
     background-size: cover;
